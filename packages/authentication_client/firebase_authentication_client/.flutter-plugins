@@ -1,0 +1,14 @@
+# This is a generated file; do not edit or check into version control.
+firebase_auth=/Users/aswin/.pub-cache/hosted/pub.dev/firebase_auth-4.2.5/
+firebase_auth_web=/Users/aswin/.pub-cache/hosted/pub.dev/firebase_auth_web-5.2.4/
+firebase_core=/Users/aswin/.pub-cache/hosted/pub.dev/firebase_core-2.4.1/
+firebase_core_web=/Users/aswin/.pub-cache/hosted/pub.dev/firebase_core_web-2.1.0/
+flutter_facebook_auth=/Users/aswin/.pub-cache/hosted/pub.dev/flutter_facebook_auth-4.4.1+1/
+flutter_facebook_auth_web=/Users/aswin/.pub-cache/hosted/pub.dev/flutter_facebook_auth_web-3.2.0/
+google_sign_in=/Users/aswin/.pub-cache/hosted/pub.dev/google_sign_in-5.4.4/
+google_sign_in_android=/Users/aswin/.pub-cache/hosted/pub.dev/google_sign_in_android-6.1.5/
+google_sign_in_ios=/Users/aswin/.pub-cache/hosted/pub.dev/google_sign_in_ios-5.5.1/
+google_sign_in_web=/Users/aswin/.pub-cache/hosted/pub.dev/google_sign_in_web-0.10.2+1/
+sign_in_with_apple=/Users/aswin/.pub-cache/hosted/pub.dev/sign_in_with_apple-4.3.0/
+sign_in_with_apple_web=/Users/aswin/.pub-cache/hosted/pub.dev/sign_in_with_apple_web-1.0.1/
+twitter_login=/Users/aswin/.pub-cache/hosted/pub.dev/twitter_login-4.3.1/
